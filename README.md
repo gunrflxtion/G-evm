@@ -1,3 +1,6 @@
+<img width="781" height="272" alt="Screenshot_2026-02-24_06-43-20" src="https://github.com/user-attachments/assets/4ce1f5c9-6992-47fd-ad70-f51b2ac1a6ce" />
+
+
 # 🚀 G EVM Generator
 
 Generator alamat wallet EVM (Ethereum compatible) dengan prefix khusus.
