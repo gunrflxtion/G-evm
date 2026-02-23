@@ -1,4 +1,4 @@
-# 🚀 G EVM Vanity Generator
+# 🚀 G EVM Generator
 
 Generator alamat wallet EVM (Ethereum compatible) dengan prefix khusus.
 
