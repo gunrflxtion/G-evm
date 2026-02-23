@@ -61,6 +61,8 @@ node g.js abc
 
 Semakin panjang prefix, semakin lama prosesnya.
 
+END: CTRL+C
+
 ---
 
 ## 🔐 Keamanan
